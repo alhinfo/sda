@@ -30,3 +30,6 @@ GitPython
 torchsde
 safetensors
 psutil
+webuiapi
+python-telegram-bot
+python-dotenv>=0.20.0
